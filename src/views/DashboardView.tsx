@@ -82,7 +82,6 @@ export function DashboardView() {
                     {test.suite} · {test.file}
                   </span>
                 </div>
-                <button className="btn-text">View log</button>
               </li>
             ))}
           </ul>
